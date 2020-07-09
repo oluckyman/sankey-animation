@@ -20,7 +20,7 @@ function run(rawData) {
   const bandHeight = 80 - padding / 2
   const speed = 0.7
   const density = 7
-  const totalParticles = 500
+  // const totalParticles = 500 // will be set below when the data is parsed
 
 
   //
@@ -160,6 +160,10 @@ function run(rawData) {
       node: n,
       targets: targetsAbsolute.filter(t => t.name === n.name)
     }))
+
+
+  // set to absolute amount of students, but could be any value
+  const totalParticles = d3.sum(targetsAbsolute, t => t.value)
 
 
   //
