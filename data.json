@@ -1,0 +1,14 @@
+{
+  "bit501": {
+    "601":      {"males": 35,"females": 30},
+    "602":      {"males": 55,"females": 35},
+    "603":      {"males": 115,"females": 80},
+    "604":      {"males": 27,"females": 13},
+    "605":      {"males": 53,"females": 57}
+  },
+  "bit502": {
+    "601":      {"males": 5,"females": 3},
+    "603":      {"males": 75,"females": 40},
+    "605":      {"males": 3,"females": 57}
+  }
+}
