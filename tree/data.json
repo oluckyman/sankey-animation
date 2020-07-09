@@ -1,0 +1,14 @@
+{
+  "bit501": {
+    "501.601":      {"males": 35,"females": 30},
+    "501.602":      {"males": 55,"females": 35},
+    "501.603":      {"males": 115,"females": 80},
+    "501.604":      {"males": 27,"females": 13},
+    "501.605":      {"males": 53,"females": 57}
+  },
+  "bit502": {
+    "502.601":      {"males": 5,"females": 3},
+    "502.603":      {"males": 75,"females": 40},
+    "502.605":      {"males": 3,"females": 57}
+  }
+}
